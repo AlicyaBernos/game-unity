@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60c222893df244d1e917899758c15c82, type: 3}
   m_Name: PlayerMaxHealth
   m_EditorClassIdentifier: Assembly-CSharp::IntVariable
-  CurrentValue: 0
+  CurrentValue: 5
   DeveloperDescription: 
