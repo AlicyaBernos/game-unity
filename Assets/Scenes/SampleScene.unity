@@ -342,6 +342,8 @@ MonoBehaviour:
     m_ColorSpace: -1
     m_NumColorKeys: 4
     m_NumAlphaKeys: 2
+  playerCurrentLifePoints: {fileID: 11400000, guid: 3fca3200ef1804bcc8597c9afdc3af30, type: 2}
+  playerMaxLifePoints: {fileID: 11400000, guid: 78d5863c9e7644b5e88240c8010234cc, type: 2}
 --- !u!1 &393053834
 GameObject:
   m_ObjectHideFlags: 0
